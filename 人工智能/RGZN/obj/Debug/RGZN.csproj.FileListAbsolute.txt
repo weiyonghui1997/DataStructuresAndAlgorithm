@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\RGZN\RGZN\bin\Debug\RGZN.exe.config
+C:\Users\Administrator\Desktop\RGZN\RGZN\bin\Debug\RGZN.exe
+C:\Users\Administrator\Desktop\RGZN\RGZN\bin\Debug\RGZN.pdb
+C:\Users\Administrator\Desktop\RGZN\RGZN\obj\Debug\RGZN.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RGZN\RGZN\obj\Debug\RGZN.exe
+C:\Users\Administrator\Desktop\RGZN\RGZN\obj\Debug\RGZN.pdb
