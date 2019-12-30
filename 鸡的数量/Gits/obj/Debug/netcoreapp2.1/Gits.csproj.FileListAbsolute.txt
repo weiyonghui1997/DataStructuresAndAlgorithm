@@ -1,0 +1,5 @@
+/Users/hujingyang/Desktop/Gits/Gits/obj/Debug/netcoreapp2.1/Gits.csproj.CoreCompileInputs.cache
+/Users/hujingyang/Desktop/Gits/Gits/obj/Debug/netcoreapp2.1/Gits.AssemblyInfoInputs.cache
+/Users/hujingyang/Desktop/Gits/Gits/obj/Debug/netcoreapp2.1/Gits.AssemblyInfo.cs
+/Users/hujingyang/Desktop/Gits/Gits/obj/Debug/netcoreapp2.1/Gits.dll
+/Users/hujingyang/Desktop/Gits/Gits/obj/Debug/netcoreapp2.1/Gits.pdb
