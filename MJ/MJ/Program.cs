@@ -10,7 +10,7 @@ namespace MJ
     {
         static void Main()
         {
-            int[] arrayToSort = new int[] { 15, 4, 1, 29, 107, 56, 11, 22 };
+            int[] arrayToSort = new int[] { 15, 4, 1, 29, 105, 56, 11, 22 };
             int temporaryInt;
 
             for (int passCount = 1; passCount < arrayToSort.Length; passCount++)
